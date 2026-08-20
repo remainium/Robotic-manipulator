@@ -94,4 +94,19 @@ arms for reference
 <img width="1366" height="768" alt="Screenshot (1199)" src="https://github.com/user-attachments/assets/5955aeaa-77b4-4988-8250-dd9643f1cdcb" />
 <img width="1366" height="768" alt="Screenshot (1204)" src="https://github.com/user-attachments/assets/4e8b5a79-1d07-4c07-994a-85e1b9f84dc7" />
 
+# assembly
 
+- joint 6
+  Attach the motor to the joint 6 holster such that the input pins are exposed; screw the NEMA 17 into the inside.
+  <img width="1366" height="768" alt="Screenshot (1207)" src="https://github.com/user-attachments/assets/8ec8ac47-1108-4be2-af1a-0e54fa05d88c" />
+
+- joint 5
+  In this joint, start by first attaching the motor mount to the NEMA 17 such that the curved shape points upward
+  After that, glue nuts to the cutouts and screw on the ring section
+  Then press-fit a 6809 bearing into position and fit the planet gear alinger in the middle of the bearing
+  Put the sun gear on the NEMA 17 according to the D-shaped shaft and use 608 bearings and sun gears to attach to the alinger
+  Glue some nuts to the alignment part, bolt the output shaft on, and attach a 6809 bearing to its exterior. After gluing the nuts onto     the top of the ring gear, bolt the cover on. You can now also glue nuts onto the output and connect the sixth joint
+  <img width="1366" height="768" alt="Screenshot (1208)" src="https://github.com/user-attachments/assets/3b169b32-da76-4588-b1c2-9d0a32fc5226" />
+
+- joint 4
+  For this section, you may first bolt the NEMA 17 mount on, and then glue nuts to it, insert a 608 ball bearing into the slot, and slide down the appropriate shaft and fit it flush to the bearing. After that, mount a 90-tooth gear to it 3d printed. Use a gt2 strap belt of appropriate size, and attach a 20-tooth gear to the NEMA 17; after that, attach a 20-tooth pulley to the other end of the rod and a 60-tooth gear for the final output. Press-fit a 6809 bearing and press-fit and glue nuts to the output
