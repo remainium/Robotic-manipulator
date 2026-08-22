@@ -110,3 +110,19 @@ arms for reference
 
 - joint 4
   For this section, you may first bolt the NEMA 17 mount on, and then glue nuts to it, insert a 608 ball bearing into the slot, and slide down the appropriate shaft and fit it flush to the bearing. After that, mount a 90-tooth gear to it 3d printed. Use a gt2 strap belt of appropriate size, and attach a 20-tooth gear to the NEMA 17; after that, attach a 20-tooth pulley to the other end of the rod and a 60-tooth gear for the final output. Press-fit a 6809 bearing and press-fit and glue nuts to the output
+
+
+
+# bill of materials
+
+## 📦 Bill of Materials (BOM)
+
+| Component Name | Qty | Price (Per Unit) | Source / Link |
+| :--- | :---: | :---: | :--- |
+| **NEMA 23 Stepper Motor** | 2 | ~$30.30 USD *(₹2,900)* | [Store Name](https://example.com) |
+| **NEMA 17 Stepper Motor** | 4 | ~$10.45 USD *(₹1,000)* | [Store Name](https://example.com) |
+| **Carbon Fiber Tube** <br> *(3mm Wide, 28mm ID, 1 Meter Long)* | 3 | ~$31.35 USD *(₹3,000)* | [Store Name](https://example.com) |
+| **GT Timing Pulley & Belt** | 1 | ~$5.22 USD *(₹500)* | [Store Name](https://example.com) |
+| **TB6600 Stepper Driver** | 6 | ~$5.22 USD *(₹500)* | [Store Name](https://example.com) |
+| **ESP32 Development Board** | 1 | ~$5.22 USD *(₹500)* | [Store Name](https://example.com) |
+| **AS5600 Magnetic Encoder** | 6 | ~$3.13 USD *(₹300)* | [Store Name](https://example.com) |
