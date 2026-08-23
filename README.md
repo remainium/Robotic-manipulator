@@ -1,6 +1,7 @@
 # 6DOF robotic manipulator
 
 This project consists of a robotic manipulator made up of ^ different actuators and joints, each driven by a different gearbox or type of drive, and sometimes even a different type of motor; however, the underlying use of stepper motors is maintained.
+This can be driven using a master slave control system or invserse kinematics based system
 
 # The specifications
 The robot arm is capable of a 40 - 50 centimeter reach; its final end-effector speed can go up to x mm/s.
