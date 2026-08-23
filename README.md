@@ -111,6 +111,8 @@ arms for reference
 - joint 4
   For this section, you may first bolt the NEMA 17 mount on, and then glue nuts to it, insert a 608 ball bearing into the slot, and slide down the appropriate shaft and fit it flush to the bearing. After that, mount a 90-tooth gear to it 3d printed. Use a gt2 strap belt of appropriate size, and attach a 20-tooth gear to the NEMA 17; after that, attach a 20-tooth pulley to the other end of the rod and a 60-tooth gear for the final output. Press-fit a 6809 bearing and press-fit and glue nuts to the output
 
+# wiring diagram
+<img width="1536" height="952" alt="WhatsApp Image 2026-08-23 at 10 36 43 PM" src="https://github.com/user-attachments/assets/76063203-ea2e-494b-96be-3f68cdd73279" />
 
 
 # bill of materials
