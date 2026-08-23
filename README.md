@@ -78,13 +78,13 @@ arms for reference
   output rpm - 7.5
 
 - joint 3
-
+null
 
 - joint 2
-
+null
 
 - joint 1
-
+null
 
 # pictures
 
@@ -113,6 +113,7 @@ arms for reference
 
 # wiring diagram
 <img width="1536" height="952" alt="WhatsApp Image 2026-08-23 at 10 36 43 PM" src="https://github.com/user-attachments/assets/76063203-ea2e-494b-96be-3f68cdd73279" />
+mains power - 36V PSU - splits to (a) motor power bus and (b) 5V logic via buck converter - ESP32 generates 6 independent step/dir signal pairs - each pair drives one TB6600 - each TB6600 drives one stepper motor, all sharing a common ground and 36V bus.
 
 
 # bill of materials
